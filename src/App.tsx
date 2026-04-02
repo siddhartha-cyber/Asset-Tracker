@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef, type ReactNode, type CSSProperties } from 'react'
 import { motion } from 'framer-motion'
 import {
-  Box, Shield, BarChart3, Wrench, ClipboardList, Package,
+  Box, Wrench, ClipboardList, Package,
   ArrowRight, CheckCircle2, Star, Menu, X, Zap,
-  Monitor, Users, Bell, Search, FileDown, Upload,
-  LayoutDashboard, AlertTriangle, RefreshCw, ChevronRight,
-  CircleDot, Settings, TrendingUp, DollarSign
+  Monitor, Users, Bell,
+  LayoutDashboard, AlertTriangle, RefreshCw,
+  Settings, DollarSign
 } from 'lucide-react'
 import './App.css'
 
